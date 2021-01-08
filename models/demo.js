@@ -9,4 +9,4 @@ const Demo = db.model('Jegyzet', {
     name: String,
 });
 
-module.exports = Jegyzet;
+module.exports = Demo;
