@@ -2,6 +2,11 @@
 
 This is a template repository for creating express applications. It uses pre defined node modules to help speed up production.
 
+## TODO before starting
+
+- Edit `/config/db.js` to create a custom name for your database.
+- Edit `/README.md` so it would reflect your project
+
 ## Getting started
 
 ### Install node modules:
