@@ -17,7 +17,7 @@ npm install
 
 ### Start development server using nodemon:
 ```bash
-npm start dev
+npm run dev
 ```
 
 ### Start production server:
